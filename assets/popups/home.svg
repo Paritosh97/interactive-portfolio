@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#898989;}
+	.st1{fill:none;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'MyriadPro-Regular';}
+	.st4{font-size:45px;}
+	.st5{letter-spacing:16;}
+	.st6{font-size:80px;}
+</style>
+<g id="Background">
+	<g>
+		<rect x="0.5" y="0.5" class="st0" width="999" height="999"/>
+		<path d="M999,1v998H1V1H999 M1000,0H0v1000h1000V0L1000,0z"/>
+	</g>
+	<rect x="60.49" y="193.77" class="st1" width="885.45" height="462.64"/>
+	<text transform="matrix(1 0 0 1 60.4893 225.7158)"><tspan x="0" y="0" class="st2 st3 st4">Thanks for visiting my interactive portfolio!</tspan><tspan x="0" y="108" class="st2 st3 st4">•  The rooms contain information about me </tspan><tspan x="0" y="162" class="st2 st3 st4">and </tspan><tspan x="81.58" y="162" class="st2 st3 st4 st5">	</tspan><tspan x="108" y="162" class="st2 st3 st4">   my work.</tspan><tspan x="0" y="270" class="st2 st3 st4">•  Use keyboard, mouse and touch input to </tspan><tspan x="0" y="324" class="st2 st3 st4">   navigate</tspan></text>
+</g>
+<g id="Text">
+	<rect x="280.06" y="61.49" class="st1" width="439.94" height="90.38"/>
+	<text transform="matrix(1 0 0 1 280.064 118.2886)" class="st2 st3 st6">How to Play?</text>
+</g>
+</svg>
